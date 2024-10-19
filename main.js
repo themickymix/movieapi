@@ -12,7 +12,7 @@ const options = {
   method: "GET",
   headers: {
     accept: "application/json",
-    Authorization: `Bearer ${apiKey}`,
+    Authorization: `Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzZmQ2YTIyZDdiNTMzNTgyMzY1NDU0OGRhZmRkZmRmNyIsIm5iZiI6MTcyOTM0MDQzMi43OTU2MzcsInN1YiI6IjY3MGJhMzJkYmJiMWE5ZTgxYzYxZjkzOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.u10S0Ec2zcqFA0Nw9dnE6acMrSBtxbk1_ci4Cal3ra4`,
   },
 };
 // Base URL for image paths
