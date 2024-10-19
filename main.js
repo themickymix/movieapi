@@ -1,6 +1,4 @@
-import { FetchData } from "movie.js";
-
-
+import { FetchData } from "./movie.js";
 
 const apiKey = import.meta.env.VITE_API_KEY;
 
