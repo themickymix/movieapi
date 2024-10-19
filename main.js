@@ -1,4 +1,4 @@
-import { FetchData } from "./movie.js";
+import { FetchData } from "movie.js";
 
 
 
